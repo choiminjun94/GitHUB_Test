@@ -29,5 +29,16 @@
 > 마크다운 언어 사용 방법
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 
+> 레포지토리 초대 
+> Setting  -> Collaborators -> add people
+<br/>
+<hr/>
+![image](https://user-images.githubusercontent.com/60457431/187316700-fa79de21-db1a-4c4c-8492-37514eb57b86.png)
+<hr/>
+![image](https://user-images.githubusercontent.com/60457431/187316738-6c5140a2-ff15-4685-8d41-b3b7aae52f24.png)
+<hr/>
+![image](https://user-images.githubusercontent.com/60457431/187316747-20821bd1-42ca-4897-a01e-47bcffeb5744.png)
+<hr/>
+
 
 
