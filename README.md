@@ -10,11 +10,17 @@
 > 브랜치 변경 
 >  git checkout "브랜치명"
 >  git checkout Minjun
+![image](https://user-images.githubusercontent.com/60457431/187212553-9bb3c6db-e61c-457f-85a3-af21c24ad391.png)
+
 
 > 브랜치 올리기 
 > git push 하면 됨
 
-> 
+> 머지 
+> git checkout main 
+> git marge "머지할 브랜치명"
+> git merge Minjun
+![image](https://user-images.githubusercontent.com/60457431/187212416-5fc25d70-286d-4434-b93f-31b8d735752f.png)
 
 
 
